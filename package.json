@@ -1,0 +1,7 @@
+{
+  "name": "@uipatterns/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for uipatterns.",
+  "main": "index.json",
+  "license": "MIT"
+}
