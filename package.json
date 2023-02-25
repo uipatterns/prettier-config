@@ -2,6 +2,12 @@
   "name": "@uipatterns/prettier-config",
   "version": "1.0.0",
   "description": "Prettier config for uipatterns.",
+  "author": {
+    "name": "Patrick Schumacher",
+    "email": "hello@pschumacher.design",
+    "url": "https://pschumacher.dedign/"
+  },
   "main": "index.json",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "github:uipatterns/prettier-config"
 }
