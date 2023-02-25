@@ -1,6 +1,6 @@
 {
   "name": "@uipatterns/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Prettier config for uipatterns.",
   "author": {
     "name": "Patrick Schumacher",
